@@ -63,7 +63,7 @@ class _MainScreenState extends State<MainScreen> {
             style: TextStyle(fontSize: 30, fontWeight: FontWeight.w800),
           ),
           SizedBox(
-            height: 10,  //heightnxj
+            height: 10,  
           ),
           Text(
             "Target ${targetMeme} Memes",
